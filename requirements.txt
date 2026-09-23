@@ -1,0 +1,27 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# requirements.txt
+# Healthcare Operations, Revenue Optimization & Predictive Analytics
+# Author: Sambita Dutta
+# ─────────────────────────────────────────────────────────────────────────────
+
+# Web Application Framework
+streamlit>=1.35.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.26.0
+
+# Machine Learning
+scikit-learn>=1.4.0
+
+# Visualisation
+plotly>=5.20.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Report Generation
+python-docx>=1.1.0
+
+# Notebook Support (optional – only needed if running the .ipynb)
+jupyter>=1.0.0
+ipykernel>=6.29.0
